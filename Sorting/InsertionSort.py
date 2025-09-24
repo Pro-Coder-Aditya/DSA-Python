@@ -11,4 +11,3 @@ def InsertionSort(arr):
 
 arr = [2, 4, 1, 10, 12, 3]
 print(InsertionSort(arr))
-
